@@ -2,7 +2,7 @@
 
 ## Objetivo
 
-Criar um app gerador de conselhos aleatórios utiizando diretamente da API de conselhos.
+Criar um app gerador de conselhos aleatórios utizando diretamente da API de conselhos.
 
 ## [Vizualize o projeto clicando aqui](https://yudiyamada.github.io/advice-generator-app-coding-challenge/) ##
 
